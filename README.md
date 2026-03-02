@@ -1,2 +1,2 @@
-# html-string
-HTML templating using your language's custom string interpolation @ millions of req/sec and zero memory allocations
+# HtmlString
+Compile-time rendering with zero memory allocations engineered for millions of req/sec
